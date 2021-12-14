@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @electron65
-- 👀 I’m currently in the army...
+- 👀
 - 📫 How to reach me ... jongwanko@gmail.com
 
 <!---
